@@ -1,1 +1,3 @@
 the second file text added 
+
+ here is the other terext added after the first 
